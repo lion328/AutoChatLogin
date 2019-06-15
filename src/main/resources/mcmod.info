@@ -1,0 +1,9 @@
+[
+{
+  "modid": "autochatlogin",
+  "name": "AutoChatLogin",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["lion328"]
+}
+]
